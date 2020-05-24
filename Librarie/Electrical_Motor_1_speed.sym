@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.3  SYMBOL  Date: 5/22/2018 4:39:58 PM
+# SYMBOL Electrical_Motor_1_speed
+#
+DEF Electrical_Motor_1_speed M 0 40 Y Y 1 0 N
+F0 "M" 150 -200 60 H V C CNN
+F1 "Electrical_Motor_1_speed" 0 350 60 H I C CNN
+DRAW
+C 0 0 100 0 0 0 N
+T 0 0 0 118 0 0 0 M Normal 0 C C
+S -45 -145 45 -100 0 0 0 f
+S -45 100 45 145 0 0 0 f
+X ~ 1 0 250 100 D 31 39 1 1 P
+X ~ 2 0 -250 100 U 31 39 1 1 P
+ENDDRAW
+ENDDEF

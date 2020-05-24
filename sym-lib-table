@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Scooby-rescue)(type Legacy)(uri ${KIPRJMOD}/Scooby-rescue.lib)(options "")(descr ""))
+  (lib (name VW)(type Legacy)(uri ${KIPRJMOD}/Librarie/VW.lib)(options "")(descr ""))
+)

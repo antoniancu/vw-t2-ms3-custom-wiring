@@ -1,0 +1,58 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AutoRelay
+D Auto Relay 5 Pins
+K Single Pole Relay
+$ENDCMP
+#
+$CMP Brak_Light_Switch
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
+$CMP C?
+D Pin In A Connector
+$ENDCMP
+#
+$CMP DoubleRelay
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
+$CMP HazardTemoinSwitch
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
+$CMP HazardTemoinSwitchGND
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
+$CMP RelayDPDT
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
+$CMP Small_Relay
+K Double Pole Relay
+$ENDCMP
+#
+$CMP Switch_Light_Relay
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
+$CMP Temoin_Relay
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
+#End Doc Library
